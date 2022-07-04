@@ -1,4 +1,3 @@
-# provenance-testnet
 # Provenance.io Testnet Validator Node Setup
 ## Install Ubuntu 20.04 on a new server and login as root
 
